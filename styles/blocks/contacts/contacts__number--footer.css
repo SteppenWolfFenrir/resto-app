@@ -1,0 +1,7 @@
+.contacts__number--footer {
+    transition: 0.2s ease;
+}
+
+.contacts__number--footer:hover {
+    color: var(--footer-text-color-minor);
+}

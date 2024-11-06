@@ -1,0 +1,5 @@
+.nav--header {
+    font-size: var(--font-size-text-minor);
+    font-weight: var(--font-weight-semi-bold);
+    line-height: var(--line-height-major);
+}

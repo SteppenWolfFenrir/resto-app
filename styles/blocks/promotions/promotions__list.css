@@ -1,0 +1,4 @@
+.promotions__list {
+    display: flex;
+    gap: 32px;
+}

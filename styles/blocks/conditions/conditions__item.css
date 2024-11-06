@@ -1,0 +1,7 @@
+.conditions__item a {
+    transition: 0.2s ease;
+}
+
+.conditions__item:hover a {
+    color: var(--footer-text-color);
+}

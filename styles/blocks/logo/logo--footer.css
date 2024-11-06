@@ -1,0 +1,10 @@
+.logo--footer{
+    width: 284px;
+    height: 24px;
+    color: var(--white-text-color);
+    transition: 0.2s ease;
+}
+
+.logo--footer:hover {
+    color: var(--footer-text-color-minor);
+}

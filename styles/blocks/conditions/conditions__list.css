@@ -1,0 +1,8 @@
+.conditions__list {
+    display: flex;
+    font-size: var(--font-size-tag);
+    font-weight: var(--font-weight-regular);
+    line-height: var(--line-height-tag);
+
+    gap: 16px;
+}

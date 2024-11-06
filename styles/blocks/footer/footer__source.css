@@ -1,0 +1,10 @@
+.footer__source {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+
+    color: var(--footer-text-color-minor);
+    font-size: var(--font-size-tag);
+    font-weight: var(--font-weight-regular);
+    line-height: var(--line-height-tag);
+}

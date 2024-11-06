@@ -1,0 +1,7 @@
+.nav__item--footer {
+    transition: 0.2s ease;
+}
+
+.nav__item--footer:hover {
+    color: var(--footer-text-color-minor);
+}

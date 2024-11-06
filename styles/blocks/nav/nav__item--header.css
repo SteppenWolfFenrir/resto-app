@@ -1,0 +1,7 @@
+.nav__item--header {
+    transition: 0.2s ease;
+}
+
+.nav__item--header:hover {
+    color: var(--title-color);
+}

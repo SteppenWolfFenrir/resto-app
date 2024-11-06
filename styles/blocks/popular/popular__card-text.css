@@ -1,0 +1,11 @@
+.popular__card-text {
+    font-weight: var(--font-weight-regular);
+    color: var(--grey-text-color);
+    font-size: var(--font-size-text-minor);
+    line-height: var(--line-height-major);
+
+    display: -webkit-box;
+    -webkit-line-clamp: 2;
+    -webkit-box-orient: vertical;
+    overflow: hidden;
+}

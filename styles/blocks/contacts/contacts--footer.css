@@ -1,0 +1,13 @@
+.contacts--footer a {
+    color: var(--footer-text-color);
+    font-weight: var(--font-weight-semi-bold);
+    font-size: var(--font-size-heading-3);
+    line-height: var(--line-height-heading-3);
+}
+
+.contacts--footer p {
+    color: var(--footer-text-color-minor);
+    font-weight: var(--font-weight-regular);
+    font-size: var(--font-size-tag);
+    line-height: var(--line-height-tag);
+}

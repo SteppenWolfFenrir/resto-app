@@ -1,0 +1,7 @@
+.badges {
+    display: flex;
+    position: absolute;
+    right: 8px;
+    top: 8px;
+    gap: 8px;
+}

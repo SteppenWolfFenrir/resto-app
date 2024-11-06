@@ -1,0 +1,15 @@
+.button--main {
+    height: 56px;
+    background-color: var(--footer-text-color);
+    border-radius: 16px;
+    padding: 16px 24px 16px 24px;
+    transition: 0.2s ease;
+
+    font-size: var(--font-size-text-major);
+    font-weight: var(--font-weight-semi-bold);
+    line-height: var(--line-height-major);
+}
+
+.button--main:hover {
+    background-color: var(--main-button-hover);
+}

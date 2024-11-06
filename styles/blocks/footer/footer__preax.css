@@ -1,0 +1,9 @@
+.footer__preax {
+    color: var(--footer-text-color-minor);
+    border-bottom: 1px solid;
+    transition: 0.2s ease;
+}
+
+.footer__preax:hover {
+    color: var(--footer-text-color);
+}

@@ -1,0 +1,11 @@
+.tag {
+    display: flex;
+    font-weight: var(--font-weight-semi-bold);
+    font-size: var(--font-size-tag);
+    line-height: var(--line-height-tag);
+    color: #FFFFFF;
+    padding: 8px;
+    border-radius: 8px;
+
+    background-color: var(--tag-bg);
+}

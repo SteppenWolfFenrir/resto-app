@@ -1,0 +1,11 @@
+.footer__row-2 {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+
+    min-width: 1312px;
+}
+
+.footer__row-2 a {
+    color: var(--footer-text-color-minor);
+}

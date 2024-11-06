@@ -1,0 +1,8 @@
+.events {
+    max-width: 1440px;
+    display: flex;
+    flex-direction: column;
+    margin-inline: auto;
+    padding: 32px 64px 32px 64px;
+    gap: 32px;
+}

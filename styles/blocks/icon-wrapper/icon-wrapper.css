@@ -1,0 +1,10 @@
+.icon-wrapper {
+    color: var(--footer-text-color-minor);
+    position: relative;
+    width: 138px;
+    height: 40px;
+}
+
+.icon-wrapper:hover .icon-wrapper__icon-top {
+    opacity: 1;
+}

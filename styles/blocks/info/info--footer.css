@@ -1,0 +1,7 @@
+.info--footer {
+    min-width: 1312px;
+    height: 56px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}

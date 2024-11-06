@@ -1,0 +1,7 @@
+.contacts__number--header {
+    transition: 0.2s ease;
+}
+
+.contacts__number--header:hover {
+    color: var(--title-color);
+}

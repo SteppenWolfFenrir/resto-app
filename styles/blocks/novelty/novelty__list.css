@@ -1,0 +1,7 @@
+.novelty__list {
+    display: grid;
+    grid-template-columns: repeat(4, 304px);
+    grid-template-rows: 304px;
+    column-gap: 32px;
+    line-height: var(--line-height-heading-3);
+}

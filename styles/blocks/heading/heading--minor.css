@@ -1,0 +1,5 @@
+.heading--minor {
+    font-size: var(--font-size-card);
+    line-height: var(--line-height-card);
+    color: var(--white-text-color);
+}

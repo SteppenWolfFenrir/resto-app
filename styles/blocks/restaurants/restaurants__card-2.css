@@ -1,0 +1,28 @@
+.restaurants__card-2 {
+    display: flex;
+    flex-direction: column-reverse;
+    justify-content: space-between;
+    align-items: flex-start;
+    position: relative;
+    width: 640px;
+    height: 360px;
+    border-radius: 16px;
+    padding: 32px;
+
+    background-image: var(--card-bg-lg), url("../../../images/cards/stocks/wok.png");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.background-overlay::before {
+    content: "";
+    position: absolute;
+    border-radius: 16px;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background-color: rgba(0, 0, 0, 0.1);
+    z-index: 1;
+}

@@ -1,0 +1,16 @@
+.info__user-button {
+    width: 56px;
+    height: 48px;
+    border-radius: 16px;
+
+    transition: 0.2s ease, color 0.2s ease;
+    background-color: var(--header-bg-lg);
+    color: var(--title-color);
+    border: 2px solid var(--title-color);
+
+}
+
+.info__user-button:hover {
+    background-color: var(--title-color);
+    color: var(--white-text-color);
+}

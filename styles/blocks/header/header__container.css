@@ -1,0 +1,9 @@
+.header__container {
+    max-width: 1440px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-inline: auto;
+    padding: 16px 64px 16px 64px;
+    color: var(--header-text-color);
+}

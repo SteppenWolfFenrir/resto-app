@@ -1,0 +1,13 @@
+.button--big {
+    height: 56px;
+    width: 100%;
+    border-radius: 16px;
+    border: 2px solid var(--title-color);
+    background: none;
+    padding: 16px 24px 16px 24px;
+    gap: 16px;
+
+    font-size: var(--font-size-text-major);
+    font-weight: var(--font-weight-semi-bold);
+    line-height: var(--line-height-major);
+}

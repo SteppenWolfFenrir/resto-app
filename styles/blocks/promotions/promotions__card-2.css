@@ -1,0 +1,15 @@
+.promotions__card-2 {
+    display: flex;
+    flex-direction: column-reverse;
+    justify-content: space-between;
+    align-items: flex-start;
+    width: 640px;
+    height: 360px;
+    border-radius: 16px;
+    padding: 32px;
+
+    background-image: var(--card-bg-lg), url("../../../images/cards/stocks/pocket.png");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}

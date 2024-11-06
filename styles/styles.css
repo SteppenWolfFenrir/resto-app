@@ -1,0 +1,112 @@
+@import "normalize.css";
+@import "fonts.css";
+@import "variables.css";
+@import "globals.css";
+
+@import "blocks/bubble/bubble.css";
+
+@import "blocks/header/header.css";
+@import "blocks/header/header__container.css";
+
+@import "blocks/nav/nav__list.css";
+@import "blocks/nav/nav--header.css";
+@import "blocks/nav/nav--footer.css";
+@import "blocks/nav/nav__item--header.css";
+@import "blocks/nav/nav__item--footer.css";
+
+@import "blocks/contacts/contacts--header.css";
+@import "blocks/contacts/contacts--footer.css";
+@import "blocks/contacts/contacts__number--header.css";
+@import "blocks/contacts/contacts__number--footer.css";
+
+@import "blocks/heading/heading.css";
+@import "blocks/heading/heading--major.css";
+@import "blocks/heading/heading--minor.css";
+
+@import "blocks/badges/badges.css";
+@import "blocks/badges/badges--status.css";
+
+@import "blocks/button/button.css";
+@import "blocks/button/button--x-mark.css";
+@import "blocks/button/button--footer.css";
+
+@import "blocks/logo/logo.css";
+@import "blocks/logo/logo--header.css";
+@import "blocks/logo/logo--footer.css";
+
+@import "blocks/tags/tag.css";
+
+@import "blocks/info/info__elements.css";
+@import "blocks/info/info--header.css";
+@import "blocks/info/info--footer.css";
+@import "blocks/info/info__social.css";
+@import "blocks/info/info__link.css";
+@import "blocks/info/info__cart-button.css";
+@import "blocks/info/info__user-button.css";
+
+
+@import "blocks/menu/menu.css";
+@import "blocks/menu/menu__list.css";
+@import "blocks/menu/menu__card-1.css";
+@import "blocks/menu/menu__card-2.css";
+@import "blocks/menu/menu__card-3.css";
+@import "blocks/menu/menu__card-4.css";
+@import "blocks/menu/menu__card-heading.css";
+
+@import "blocks/novelty/novelty.css";
+@import "blocks/novelty/novelty__list.css";
+@import "blocks/novelty/novelty__card.css";
+@import "blocks/novelty/novelty__card-image.css";
+@import "blocks/novelty/novelty__card-info.css";
+@import "blocks/novelty/novelty__card-heading.css";
+@import "blocks/novelty/novelty__card-text.css";
+
+@import "blocks/popular/popular.css";
+@import "blocks/popular/popular__list.css";
+@import "blocks/popular/popular__card.css";
+@import "blocks/popular/popular__card-image.css";
+@import "blocks/popular/popular__card-info.css";
+@import "blocks/popular/popular__card-heading.css";
+@import "blocks/popular/popular__card-text.css";
+
+@import "blocks/promotions/promotions.css";
+@import "blocks/promotions/promotions__list.css";
+@import "blocks/promotions/promotions__card-1.css";
+@import "blocks/promotions/promotions__card-2.css";
+
+@import "blocks/events/events.css";
+@import "blocks/events/events__list.css";
+@import "blocks/events/events__card-1.css";
+@import "blocks/events/events__card-2.css";
+@import "blocks/events/events__tags.css";
+@import "blocks/events/events__button.css";
+
+
+@import "blocks/restaurants/restaurants.css";
+@import "blocks/restaurants/restaurants__list.css";
+@import "blocks/restaurants/restaurants__card-1.css";
+@import "blocks/restaurants/restaurants__card-2.css";
+@import "blocks/restaurants/restaurants__tags.css";
+
+@import "blocks/button/button--header.css";
+@import "blocks/button/button--main.css";
+@import "blocks/button/button--big.css";
+
+@import "blocks/footer/footer.css";
+@import "blocks/footer/footer__row-1.css";
+@import "blocks/footer/footer__store.css";
+@import "blocks/footer/footer__row-2.css";
+@import "blocks/footer/footer__icons.css";
+@import "blocks/footer/footer__link--hover.css";
+@import "blocks/footer/footer__payment-icons.css";
+@import "blocks/footer/footer__copyright.css";
+@import "blocks/footer/footer__payment.css";
+@import "blocks/footer/footer__source.css";
+@import "blocks/footer/footer__preax.css";
+
+@import "blocks/conditions/conditions__list.css";
+@import "blocks/conditions/conditions__item.css";
+
+@import "blocks/icon-wrapper/icon-wrapper.css";
+@import "blocks/icon-wrapper/icon-wrapper__icon-bottom.css";
+@import "blocks/icon-wrapper/icon-wrapper__icon-top.css";

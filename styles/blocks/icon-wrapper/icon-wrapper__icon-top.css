@@ -1,0 +1,9 @@
+.icon-wrapper__icon-top {
+    position: absolute;
+    top: 0;
+    left: 0;
+
+    color: var(--footer-text-color-minor);
+    opacity: 0.1;
+    transition: opacity 0.2s;
+}

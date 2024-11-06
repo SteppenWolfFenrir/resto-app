@@ -1,0 +1,10 @@
+.nav--footer {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    color: var(--footer-text-color);
+    font-size: var(--font-size-text-minor);
+    font-weight: var(--font-weight-semi-bold);
+    line-height: var(--line-height-major);
+}

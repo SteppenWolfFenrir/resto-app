@@ -1,0 +1,8 @@
+.footer__link--hover {
+    transition: 0.2s ease;
+    color: var(--footer-text-color-minor);
+}
+
+.footer__link--hover:hover {
+    color: var(--white-text-color);
+}

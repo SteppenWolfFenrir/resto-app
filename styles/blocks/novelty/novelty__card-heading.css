@@ -1,0 +1,7 @@
+.novelty__card-heading {
+    margin-top: 16px;
+    font-weight: var(--font-weight-semi-bold);
+    font-size: var(--font-size-text-major);
+    line-height: var(--line-height-major);
+    color: var(--title-color);
+}

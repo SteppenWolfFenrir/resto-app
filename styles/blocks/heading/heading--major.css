@@ -1,0 +1,5 @@
+.heading--major {
+    font-size: var(--font-size-heading-1);
+    line-height: var(--line-height-heading-1);
+    color: var(--title-color)
+}
