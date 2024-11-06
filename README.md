@@ -1,4 +1,4 @@
-# Resto App
+# Resto App 🍽️
 
 This is my first full-fledged project built with HTML and CSS, along with a small amount of JavaScript.
 
@@ -7,7 +7,7 @@ This is my first full-fledged project built with HTML and CSS, along with a smal
 ## Features
 - Navigation menu
 - Interactive elements
-- 
+
 ## Technologies
 - HTML
 - CSS
